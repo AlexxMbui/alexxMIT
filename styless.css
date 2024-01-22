@@ -1,0 +1,42 @@
+.myheadingg{
+    color: #0000fa;
+    font-size: 40px;
+    background-color: #7981e7;
+}
+#three{
+    color: #024220;
+}
+#forty{
+    color:darkorange ;
+}
+.divione{
+    background-color: rgba(0, 255, 255, 0.44);
+    padding-top: 30px;
+    padding-left: 50px;
+    padding-bottom: 30px;
+    width: 300px;
+    margin-left: 300px;
+    margin-right: 150px;
+
+}
+.test{
+    display: flex;
+    background-color: darkolivegreen;
+    padding: 30px;
+}
+.paragraph1{
+    margin: 10px;
+}
+.main{
+    display: flex;
+
+}
+.paragraph2{
+    background-color: chocolate;
+}
+.paragraph3{
+    background-color: rgba(0, 0, 139, 0.36);
+}
+.paragraph4{
+    background-color: rgba(184, 134, 11, 0.39);
+}
